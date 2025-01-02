@@ -17220,3 +17220,197 @@ skipping non-regular file "printer_data/config/KAMP"
 skipping non-regular file "printer_data/config/mainsail.cfg"
 
 Neopixel update did not succeed
+skipping non-regular file "printer_data/logs/mainsail-access.log"
+skipping non-regular file "printer_data/logs/mainsail-error.log"
+
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+[main 0de46d9] New backup from 02.01.2025 - 04:32:17
+ 29 files changed, 2986947 insertions(+), 4 deletions(-)
+ create mode 100644 printer_data/.moonraker.uuid
+ create mode 100644 printer_data/config/.moonraker.conf.bkp
+ create mode 100644 printer_data/database/moonraker-sql.db
+ create mode 100644 printer_data/gcodes/.thumbs/CRtwin_Volcano (3)_0.1mm_ABS_Generic Klipper Printer_4h35m-32x32.png
+ create mode 100644 printer_data/gcodes/.thumbs/CRtwin_Volcano (3)_0.1mm_ABS_Generic Klipper Printer_4h35m-48x48.png
+ create mode 100644 printer_data/gcodes/.thumbs/CRtwin_Volcano (3)_0.1mm_ABS_Generic Klipper Printer_4h35m-900x600.png
+ create mode 100644 "printer_data/gcodes/.thumbs/\320\232\321\203\320\261_0.2mm_PETG_Generic Klipper Printer_116d18h27m-32x32.png"
+ create mode 100644 "printer_data/gcodes/.thumbs/\320\232\321\203\320\261_0.2mm_PETG_Generic Klipper Printer_116d18h27m-48x48.png"
+ create mode 100644 "printer_data/gcodes/.thumbs/\320\232\321\203\320\261_0.2mm_PETG_Generic Klipper Printer_116d18h27m-900x600.png"
+ create mode 100644 "printer_data/gcodes/.thumbs/\320\232\321\203\320\261_0.2mm_PETG_Generic Klipper Printer_1d20h8m-32x32.png"
+ create mode 100644 "printer_data/gcodes/.thumbs/\320\232\321\203\320\261_0.2mm_PETG_Generic Klipper Printer_1d20h8m-48x48.png"
+ create mode 100644 "printer_data/gcodes/.thumbs/\320\232\321\203\320\261_0.2mm_PETG_Generic Klipper Printer_1d20h8m-900x600.png"
+ create mode 100644 printer_data/gcodes/CRtwin_Volcano (3)_0.1mm_ABS_Generic Klipper Printer_4h35m.gcode
+ create mode 100644 "printer_data/gcodes/\320\232\321\203\320\261_0.2mm_PETG_Generic Klipper Printer_116d18h27m.gcode"
+ create mode 100644 "printer_data/gcodes/\320\232\321\203\320\261_0.2mm_PETG_Generic Klipper Printer_1d20h8m.gcode"
+ create mode 100644 printer_data/logs/klippy.log
+ create mode 100644 printer_data/logs/klippy.log.2024-12-28
+ create mode 100644 printer_data/logs/klippy.log.2024-12-29
+ create mode 100644 printer_data/logs/klippy.log.2024-12-30
+ create mode 100644 printer_data/logs/klippy.log.2024-12-31
+ create mode 100644 printer_data/logs/klippy.log.2025-01-01
+ create mode 100644 printer_data/logs/moonraker.log
+ create mode 100644 printer_data/logs/moonraker.log.2024-12-31
+ create mode 100644 printer_data/logs/moonraker.log.2025-01-01
+ create mode 100644 printer_data/misc/usb.ids
+ create mode 100644 printer_data/moonraker.asvc
+ create mode 100644 printer_data/systemd/klipper.env
+ create mode 100644 printer_data/systemd/moonraker.env
+
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File printer_data/gcodes/Куб_0.2mm_PETG_Generic Klipper Printer_116d18h27m.gcode is 50.23 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+
+remote: error: GH013: Repository rule violations found for refs/heads/main.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: 0de46d9a4fdf1ff9d00ad19135f6590429bdda23        
+remote:            path: printer_data/logs/klippy.log:17003        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/Ferz82/github-klipper-backup/security/secret-scanning/unblock-secret/2r3J0H3IaNS91j3V6JeqHFJmMKE        
+remote:             
+remote: 
+remote: 
+
+To https://github.com/Ferz82/github-klipper-backup.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+
+error: failed to push some refs to 'https://github.com/Ferz82/github-klipper-backup.git'
+
+Command {update_git_script} finished
+
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Neopixel update did not succeed
+Running Command {update_git_script}...:
+[1;93m●[0m Checking for installed dependencies /[K[1;92m●[0m Checking for installed dependencies [1;92mDone![0m
+
+
+Klipper-Backup is up to date
+
+
+From https://github.com/Ferz82/github-klipper-backup
+ * branch            main       -> FETCH_HEAD
+
+Already up to date.
+
+skipping non-regular file "printer_data/comms/klippy.serial"
+skipping non-regular file "printer_data/comms/klippy.sock"
+skipping non-regular file "printer_data/comms/moonraker.sock"
+
+skipping non-regular file "printer_data/config/KAMP"
+skipping non-regular file "printer_data/config/mainsail.cfg"
+
