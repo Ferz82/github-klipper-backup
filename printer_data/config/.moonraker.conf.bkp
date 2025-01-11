@@ -29,6 +29,9 @@ cors_domains =
 channel = dev
 refresh_interval = 168
 
+[file_manager]
+enable_object_processing = True
+
 [update_manager mainsail]
 path = /home/klipper/mainsail
 repo = mainsail-crew/mainsail
