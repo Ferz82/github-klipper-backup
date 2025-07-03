@@ -75,9 +75,3 @@ origin = https://github.com/KlipperScreen/KlipperScreen.git
 path = /home/klipper/KlipperScreen
 type = git_repo
 
-[update_manager fluidd]
-path = /home/klipper/fluidd
-repo = fluidd-core/fluidd
-channel = stable
-type = web
-
